@@ -13,7 +13,7 @@ while repeat:
     if no == 4:
         print("4! You win...not really, you're just rolling a dice. Get some mates!")
     if no == 5:
-        print("Keep On Moving starts playing. You dance...badly")
+        print("You bleed a little")
     if no == 6:
         print("You begin to wonder what this point of this is")
     if no == 7:
